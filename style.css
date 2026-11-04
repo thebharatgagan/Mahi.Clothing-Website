@@ -1,0 +1,127 @@
+.logo{
+    text-align: center;
+    margin: 10px;
+    padding-top: 10px;
+}
+
+.logo:hover{
+    box-shadow: 2px 2px 10px white;
+}
+
+.hero{
+    text-align: center;
+    color: black;
+    font-size: 15px;
+    padding: 2px;
+    line-height: 1px;
+    margin-top: 200px;
+    margin-bottom: 200px;
+
+    transition: 3s ease-in;
+}
+.hero p1{
+    padding-bottom: 5px;
+    margin-bottom: 5px;
+    color: black;
+    opacity: 0.5;
+}
+
+.hero p{
+    font-size: 50px;
+    
+}
+
+.item{
+    display: grid;
+    width: 310px;
+    height: 700px;
+    background-color: white;
+    margin: 20px;
+    border-radius: 20px;
+    color: black;
+    padding: 15px;
+    border: 1px solid black;
+}
+
+.item p{
+    line-height: 0.3px;
+}
+
+.item img{
+    width: 300px;
+    height: 550px;
+    padding: center;
+    border-radius: 20px;;
+}
+
+.items{
+    display: flex;
+    margin: 5px;
+    padding: 55px;
+    border-radius: 20px;
+}
+
+.item:hover{
+    background-color: rgba(252, 252, 252, 0.939);
+    border: 1px solid black;
+    box-shadow:  2px 4px 10px rgb(180, 179, 179);
+}
+
+button{
+    border: 1px solid white;
+}
+
+.reviews{
+    color:black;
+    text-align: center;
+    font-size: 50px;
+    padding-left: 50px;
+}
+
+.review{
+    display: inline-flex;
+    width: 790px;
+    height: 90px;
+    padding: 10px;
+     background-color: rgb(221, 221, 221);
+    border-radius: 30px;
+    margin: 10px;
+}
+
+.review img{
+    display: flex;
+    width:50px;
+    height:50px;
+    border-radius: 100%;
+}
+
+.review p{
+    text-align: end;
+    line-height: 2px;
+    padding: 10px;
+}
+
+.review:hover{
+     background-color: rgb(199, 198, 198);
+     border: 1px solid black;
+     box-shadow:  2px 4px 10px rgb(180, 179, 179);
+}
+.review h4{
+    text-align: center;
+}
+
+.footer{
+    border-radius: 20px;
+    text-align: center;
+    padding-top: 30px;
+
+}
+.footer img{
+    width: 150px;
+    height: 50px;
+    padding: 20px;
+    
+}
+
+
+
