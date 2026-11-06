@@ -76,7 +76,7 @@ button{
 }
 
 .reviews{
-    color:black;
+    color:#cd9f5b;
     text-align: center;
     font-size: 50px;
     padding-left: 50px;
@@ -112,7 +112,7 @@ button{
 }
 .review h4{
     text-align: center;
-    color: black;
+    color: #cd9f5b;
     font-weight: 1px;
 }
 
@@ -120,6 +120,7 @@ button{
     border-radius: 20px;
     text-align: center;
     padding-top: 30px;
+    color: #cd9f5b;
 
 }
 .footer img{
